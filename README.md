@@ -1,4 +1,4 @@
 # Flag-Project
 html and css code in main.html
-<a href="html/tiger.html">
-<img src="images/tigertrick.png"></a>
+<a href="html/main.html">
+<img src="images/mainflag.png"></a>
